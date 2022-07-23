@@ -8,7 +8,7 @@ int main()
     int n, p;
 
     printf("Enter the value of Principal, Interest Rate and Months in sequence: ");
-    scanf("%d%f%n", &p, &r, &n);
+    scanf("%d%f%d", &p, &r, &n);
 
     i = (p * n * r) / 100;
     printf("Interest is %.2f\n", i);
