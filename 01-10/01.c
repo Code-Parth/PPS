@@ -1,4 +1,4 @@
-// Write a program that works as a calculator
+// Write a program that works as a calculator.
 
 #include <stdio.h>
 
